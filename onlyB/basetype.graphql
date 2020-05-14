@@ -1,0 +1,4 @@
+# problem: error "trying to redefine field customProperty" while the other file is part of another project
+extend type Base {
+    customProperty: Int
+}
