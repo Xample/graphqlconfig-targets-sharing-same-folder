@@ -1,4 +1,4 @@
 {
   "name": "Project B",
-  "includes": [ "../common/**/*.graphql"]
+  "includes": ["../common/**/*.graphql", "./**"]
 }
